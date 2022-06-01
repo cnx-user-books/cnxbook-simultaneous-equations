@@ -1,0 +1,560 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Simultaneous Equations Concepts -- Using Letters as Numbers</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18214</md:content-id>
+  <md:title>Simultaneous Equations Concepts -- Using Letters as Numbers</md:title>
+  <md:abstract>This module shows how it can be helpful, on occasion, to use letters as numbers in order to quickly find solutions to variations on a simultaneous equation problem.</md:abstract>
+  <md:uuid>4826f997-0575-43f6-9d1e-53b97f704373</md:uuid>
+</metadata>
+  <content>
+    <para id="id13653608">Toward the end of this chapter, there are some problems in substitution and elimination where <emphasis>letters are used in place of numbers</emphasis>. For instance, consider the following problem:</para>
+    <equation id="id8633253">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2y</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>ax</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2y -  ital "ax"=7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="id13238030">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>4y</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>ax</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{4y+3 ital "ax"=9} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id13183456">What do we do with those "a"s? Like any other variable, they simply represent an unknown number. As we solve for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, we will simply leave 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> as a variable.</para>
+    <para id="id12663036">This problem lends itself more naturally to elimination than to substitution, so I will double the top equation and then subtract the two equations and solve.</para>
+    <equation id="id4899157">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>4y</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>ax</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>14</m:mtext>
+                        </m:mrow>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:munder accentunder="true">
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mfenced open="(" close=")">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>4y</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ax</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mn>9</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mfenced>
+                          </m:mrow>
+                          <m:mo>̲</m:mo>
+                        </m:munder>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>0y</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>ax</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+4y - 2 ital "ax"="14" {} ##
+ {underline  { -  left (4y+3 ital "ax"=9 right )}}  {} ##
+0y - 5 ital "ax"=5
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="id4887214">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>5a</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x= {  {5}  over  { - 5a} } = {  { - 1}  over  {a} } } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id8465654">As always, we can solve for the second variable by plugging into either of our original equations.</para>
+    <equation id="id12855113">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2y</m:mn>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mi>a</m:mi>
+                      </m:mfrac>
+                    </m:mfenced>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2y - a left ( {  { - 1}  over  {a} }  right )=7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="id3438153">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2y</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2y+1=7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="id4983564">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{y=3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id12112070">There is no new math here, just elimination. The real trick is not to be spooked by the <m:math>
+<m:mi>a</m:mi>
+</m:math>, and do the math just like you did before.</para>
+    <para id="id4093380">And what does that <emphasis>mean?</emphasis> It means we have found a solution that works for those two equations, regardless of a. We can now solve the following three problems (and an infinite number of others) without going through the hard work.</para>
+    <table id="element-83" frame="none" summary="Left column describes the equations if a=5; middle column if a=10; right if a=-3.">
+<tgroup cols="3"><thead>
+  <row>
+    <entry>If <m:math><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:math>,</entry>
+    <entry>If <m:math><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>10</m:mn></m:math>,</entry>
+    <entry>If <m:math><m:mi>a</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>3</m:mn></m:math>,</entry>
+  </row>
+</thead>
+<tbody>
+  <row>
+    <entry>The original equations become:</entry>
+    <entry>The original equations become:</entry>
+    <entry>The original equations become:</entry>
+  </row>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2y</m:mn>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>5x</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>4y</m:mn>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>15</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+2y - 5x=7 {} ##
+4y+"15"x=9
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>2y</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>10</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>4y</m:mn>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>30</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+2y - "10"x=7 {} ##
+4y+"30"x=9
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2y</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>3x</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>4y</m:mn>
+                          <m:mo stretchy="false">-</m:mo>
+                          <m:mn>9x</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+2y - 3x=7 {} ##
+4y+9x=9
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+  <row>
+    <entry>And the solution is:</entry>
+    <entry>And the solution is:</entry>
+    <entry>And the solution is:</entry>
+  </row>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mn>5</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mi>,</m:mi>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x= {  { - 1}  over  {5} } ,y=3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mtext>10</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mi>,</m:mi>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x= {  { - 1}  over  {"10"} } ,y=3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mi>,</m:mi>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{x= {  {1}  over  {3} } ,y=3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="id12395746">The whole point is that I did not have to <emphasis>solve</emphasis> those three problems—by elimination, substitution, or anything else. All I had to do was plug 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> into the general answer I had already found previously. If I had to solve a hundred such problems, I would have saved myself a great deal of time by going through the hard work once to find a general solution!</para>
+    <para id="id10710388">Mathematicians use this trick all the time. If they are faced with many similar problems, they will attempt to find a <emphasis>general</emphasis> problem that encompasses all the <emphasis>specific</emphasis> problems, by using variables to replace the numbers that change. You will do this in an even more general way in the text, when you solve the “general” simultaneous equations where <emphasis>all</emphasis> the numbers are variables. Then you will have a formula that you can plug any pair of simultaneous equations into to find the answer at once. This formula would also make it very easy, for instance, to program a computer to solve simultaneous equations (computers are terrible at figuring things out, but they’re great at formulas).</para>
+  </content>
+</document>

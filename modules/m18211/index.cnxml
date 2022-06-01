@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simultaneous Equations Concepts  -- Distance, Rate and Time</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1cd1de29-87a7-47c1-a68b-406a1a717bb5</md:uuid>
+</metadata>
+  <content>
+      <para id="id6430982">If you travel 30 miles per hour for 4 hours, how far do you go? A little common sense will tell you that the answer is 120 miles.</para>
+      <para id="id7341142">This relationship is captured in the following equation:</para>
+      <para id="id6684533"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mi>r</m:mi><m:mi>t</m:mi></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d= ital "rt"} {}</m:annotation></m:semantics></m:math> where...</para>
+      <list list-type="bulleted" id="id6520786">
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math> is distance traveled (sometimes the letter x is used instead, for position)</item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> is the rate, or speed (sometimes the letter v is used, for velocity)</item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> is the time</item>
+      </list>
+      <para id="id6146629">This is presented here because it forms the basis for many common simultaneous equations problems.</para>
+  </content>
+</document>

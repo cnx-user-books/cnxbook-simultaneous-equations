@@ -1,0 +1,235 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Simultaneous Equations Concepts -- Special Cases</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18213</md:content-id>
+  <md:title>Simultaneous Equations Concepts -- Special Cases</md:title>
+  <md:abstract>This module discusses concepts related to simultaneous equations.</md:abstract>
+  <md:uuid>d36606ab-9e13-4d81-a1b0-d823129c2ec8</md:uuid>
+</metadata>
+  <content>
+    <para id="id8746603">Consider the two equations:</para>
+    <equation id="id9867937">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>8</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2x+3y=8} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <equation id="id9925294">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>4x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>6y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{4x+6y=3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id9720873">Suppose we attempt to solve these two equations by elimination. So, we double the first equation and subtract, and the result is:</para>
+    <equation id="id8746060"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>16</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mi>y</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>0</m:mn>
+<m:mo>=</m:mo>
+<m:mn>13</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></equation>
+    <para id="id10167522">Hey, what happened? 0 does not equal 13, no matter what <m:math>
+<m:mi>x</m:mi>
+</m:math> is. Mathematically, we see that these two equations have <emphasis>no</emphasis> simultaneous solution. You asked the question “When will both of these equations be true?” And the math answered, “Hey, buddy, not until 0 equals 13.”</para>
+    <para id="id10837063"><emphasis>No solution</emphasis>.</para>
+    <para id="id5257894">Now, consider these equations:</para>
+    <equation id="id10624854">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2x</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>3y</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>4x</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>6y</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext>16</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+              </m:mtable>
+              <m:mrow/>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{2x+3y=8}  {} # 
+ size 12{4x+6y="16"}  {} 
+} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id8663303">Once again, we attempt elimination, but the result is different:</para>
+    <equation id="id9384373"><m:math>
+        <m:semantics>
+          <m:mtable>
+            <m:mtr>
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>8</m:mn>
+                </m:mrow>
+                <m:mrow/>
+              </m:mrow>
+            </m:mtr>
+            <m:mtr>
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>4x</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>6y</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>16</m:mtext>
+                </m:mrow>
+                <m:mrow/>
+              </m:mrow>
+            </m:mtr>
+            <m:mtr>
+              <m:mrow>
+               
+                <m:mrow>
+                  <m:mtext/>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mrow>
+                <m:mrow/>
+              </m:mrow>
+            </m:mtr>
+          </m:mtable>
+          <m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+ {  {2x+3y=8 {} # 
+}  over  {4x+6y="16" {} # 
+} } }  {  {"         "0=0} } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    <para id="id10145695">What happened <emphasis>that</emphasis> time? 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0=0} {}</m:annotation></m:semantics></m:math> no matter what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> is. Instead of an equation that is always false, we have an equation that is always true. Does that mean these equations work for <emphasis>any</emphasis> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>? Clearly not: for instance, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1,1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 1,1 \) } {}</m:annotation></m:semantics></m:math> does not make either equation true. What this means is that the two equations are the same: any pair that solves one will also solve the other. There is an infinite number of solutions.</para>
+    <para id="id8828430"><emphasis>Infinite number of solutions</emphasis>.</para>
+    <para id="id10636362">All of this is much easier to understand graphically! Remember that one way to solve simultaneous equations is by graphing them and looking for the intersection. In the first case, we see that original equations represented two <emphasis>parallel lines</emphasis>. There is no point of intersection, so there is no simultaneous equation.</para>
+    <figure id="element-412"><media id="id24192726" alt="Graph showing two functions as parallel lines as they do not cross. For every x, there is no value that will give the same result for both functions."><image src="../../media/speccase1.png" mime-type="image/png" print-width="2in"/></media></figure><para id="id8825926">In the second case, we see that the original equations represented the <emphasis>same line, in two different forms</emphasis>. Any point on the line is a solution to both equations.</para>
+
+<figure id="speccase"><media id="id11467202" alt="Graph illustrating two functions in two different forms but representing the same line. For every value x, the function will yield the same result when written in slope-intersect form."><image src="../../media/speccase.png" mime-type="image/png" print-width="2in"/></media></figure>
+<note id="id11213793" type="General Rule"><label>General Rule</label>If you solve an equation and get a mathematical impossibility such as 
+<m:math>
+ <m:mrow>
+  <m:mrow>
+    <m:mn> 0 </m:mn>
+    <m:mo> = </m:mo>
+    <m:mn> 13 </m:mn>
+  </m:mrow>
+ </m:mrow>
+</m:math>
+, there is no solution.  If you get a mathematical tautology such as
+<m:math>
+ <m:mrow>
+  <m:mrow>
+    <m:mn> 0 </m:mn>
+    <m:mo> = </m:mo>
+    <m:mn> 0 </m:mn>
+  </m:mrow>
+ </m:mrow>
+</m:math>
+, there is an infinite number of solutions.</note>
+  </content>
+</document>

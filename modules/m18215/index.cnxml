@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simultaneous Equations  Concepts -- Elimination</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3d3a5e17-11d6-4444-82fd-54b28796cc30</md:uuid>
+</metadata>
+  <content>
+      <para id="id10571511">Here is the algorithm for elimination.</para>
+      <list list-type="enumerated" id="id9293869">
+        <item>Multiply one equation (or in some cases both) by some number, so that the two equations have the <emphasis>same coefficient</emphasis> for one of the variables.</item>
+        <item>Add or subtract the two equations to make that variable go away.</item>
+        <item>Solve the resulting equation, which now has only one variable.</item>
+        <item>Finally, plug back in to find the other variable.</item>
+      </list>
+      <example id="element-469"><title> Solving Simultaneous Equations by Elimination </title>	
+<para id="element-427"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4y</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x+4y=1} {}</m:annotation></m:semantics></m:math></para><para id="element-677"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">−</m:mo><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x - y=8} {}</m:annotation></m:semantics></m:math></para><list id="element-463" list-type="labeled-item"><item><label>1</label>The first question is: how do we get one of these variables to have the <emphasis>same coefficient in both equations</emphasis>? To get the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> coefficients to be the same, we would have to multiply the top equation by 2 and the bottom by 3. It is much easier with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>; if we simply multiply the bottom equation by 4, then the two 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math> values will both be multiplied by 4.
+<list id="fine" list-type="labeled-item"><item> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4y</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x+4y=1} {}</m:annotation></m:semantics></m:math> </item>
+<item> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4y</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>32</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8x - 4y="32"} {}</m:annotation></m:semantics></m:math> </item>  </list> </item>
+	<item><label>2</label>Now we either <emphasis>add</emphasis> or <emphasis>subtract</emphasis> the two equations. In this case, we have 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>4y</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4y} {}</m:annotation></m:semantics></m:math> on top, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4y</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 4y} {}</m:annotation></m:semantics></m:math> on the bottom; so if we add them, they will cancel out. (If the bottom had <m:math><m:mi>a</m:mi></m:math> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4y</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+4y} {}</m:annotation></m:semantics></m:math> we would have to subtract the two equations to get the "
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>"s to cancel.)
+ <list id="okayfjdsklf" list-type="labeled-item"><item> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>0y</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>33</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"x+0y="33"} {}</m:annotation></m:semantics></m:math> </item> </list> </item>
+<item><label>3-4</label> Once again, we are left with only one variable. We can solve this equation to find that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=3} {}</m:annotation></m:semantics></m:math> and then plug back in to either of the original equations to find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= - 2} {}</m:annotation></m:semantics></m:math> as before. </item> 
+</list>
+</example>
+      <para id="id8066391">
+        <emphasis>Why does elimination work?</emphasis>
+      </para>
+      <para id="id8846893">As you know, you are always allowed to do the <emphasis>same thing</emphasis> to both sides of an equation. If an equation is true, it will still be true if you add 4 to both sides, multiply both sides by 6, or take the square root of both sides.</para>
+      <para id="id8276255">Now—consider, in the second step above, what we did to the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4y</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x+4y=1} {}</m:annotation></m:semantics></m:math>. We <emphasis>added</emphasis> something to both sides of this equation. What did we add? On the left, we added 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4y</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8x - 4y} {}</m:annotation></m:semantics></m:math>; on the right, we added 32. It seems that we have done something <emphasis>different</emphasis> to the two sides.</para>
+      <para id="id9809212">However, the second equation gives us a guarantee that these two quantities, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4y</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8x - 4y} {}</m:annotation></m:semantics></m:math> and 32, are in fact <emphasis>the same as each other</emphasis>. So by adding 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8x</m:mn><m:mo stretchy="false">−</m:mo><m:mn>4y</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8x - 4y} {}</m:annotation></m:semantics></m:math> to the left, and 32 to the right, we really have done exactly the same thing to both sides of the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4y</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x+4y=1} {}</m:annotation></m:semantics></m:math>.</para>
+  </content>
+</document>

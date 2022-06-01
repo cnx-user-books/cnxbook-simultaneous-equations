@@ -1,0 +1,195 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simultaneous Equations Concepts -- Simultaneous Equations by Graphing</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>79876c53-7ce6-414d-ae46-bafe1d5755fa</md:uuid>
+</metadata>
+  <content>
+      <para id="id4289335">Consider the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=2 sqrt {x} } {}</m:annotation></m:semantics></m:math>. How many 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mi>,</m:mi><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x,y \) } {}</m:annotation></m:semantics></m:math> pairs are there that satisfy this equation? Answer: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0,0</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 0,0 \) } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1,2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 1,2 \) } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4,4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4,4 \) } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>9,6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 9,6 \) } {}</m:annotation></m:semantics></m:math> are all solutions; and there is an <emphasis>infinite number of other solutions</emphasis>. (And don’t forget non-integer solutions, such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>,</m:mi><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  { size 8{1} } wideslash { size 8{4} } ,1 \) } {}</m:annotation></m:semantics></m:math>!)</para>
+      <para id="id11300331">Now, consider the equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=x+ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math>. How many pairs satisfy<emphasis> this</emphasis> equation? Once again, an infinite number. Most equations that relate two variables have an infinite number of solutions.</para>
+      <para id="id9603413">To consider these two equations “simultaneously” is to ask the question: what 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mi>,</m:mi><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( x,y \) } {}</m:annotation></m:semantics></m:math> pairs make <emphasis>both equations true</emphasis>? To express the same question in terms of functions: what values can you hand the functions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 sqrt {x} } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math> that will make these two functions produce the <emphasis>same answer</emphasis>?</para>
+      <figure id="id10854854"><media id="idm15485728" alt="Gearbox showing two functions to consider if the result can be the same at some value x."><image src="../../media/graphics1.png" mime-type="image/png" print-width="4in"/></media><caption> What number goes into <emphasis>both functions</emphasis> and makes them give the <emphasis>same answer</emphasis>? Is there even such a number? Is there more than one such number? </caption></figure>
+      
+      
+      
+      <para id="element-192">At first glance, it is not obvious how to approach such a question-- it is not even obvious how many answers there will be.</para><para id="id10730122">One way to answer such a question is by graphing. Remember, the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=2 sqrt {x} } {}</m:annotation></m:semantics></m:math> is the set of all points that satisfy that relationship; and the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=x+ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math> is the set of all points that satisfy that relationship. So <emphasis>the intersection(s) of these two graphs is the set of all points that satisfy both relationships</emphasis>.</para>
+      <para id="id10509397">How can we graph these two? The second one is easy: it is a line, already in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mi>m</m:mi><m:mi>x</m:mi></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "mx"+b} {}</m:annotation></m:semantics></m:math> format. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-intercept is
+<m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>
+ and the slope is 1. We can graph the first equation by plotting points; or, if you happen to know what the graph of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= sqrt {x} } {}</m:annotation></m:semantics></m:math> looks like, you can stretch the graph vertically to get 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=2 sqrt {x} } {}</m:annotation></m:semantics></m:math>, since all the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>-values will double. Either way, you wind up with something like this:</para>
+      <figure id="id3391415"><media id="idp2658896" alt="Graph of two functions illustrating the points at which they value of the functions are equal (where the graphs intersect)"><image src="../../media/graphics2.png" mime-type="image/png" print-width="4in"/></media></figure>
+      <para id="id10685023">We can see that there are two points of intersection. One occurs when 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> is barely greater than 0 (say, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=0 "." 1} {}</m:annotation></m:semantics></m:math>), and the other occurs at approximately 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=3} {}</m:annotation></m:semantics></m:math>. There will be no more points of intersection after this, because the line will rise faster than the curve.</para>
+      
+      <exercise id="element-401"><problem id="idm2507664">
+		<para id="element-261"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:msqrt>
+                      <m:mi>x</m:mi>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{y=2 sqrt {x} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="element-285"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>y</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfrac>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{y=x+ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+	</problem>
+
+	<solution id="idp3889152">
+		<para id="element-989">From graphing...</para><para id="element-36"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=0 "." 1} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=3} {}</m:annotation></m:semantics></m:math></para>
+	</solution>
+</exercise>
+      
+      
+      
+      
+      <para id="element-352">Graphing has three distinct advantages as a method for solving simultaneous equations.</para><list list-type="enumerated" id="id9516089">
+        <item>It works on any type of equations.</item>
+        <item>It tells you <emphasis>how many</emphasis> solutions there are, as well as what the solutions are.</item>
+        <item>It can help give you an <emphasis>intuitive feel</emphasis> for why the solutions came out the way they did.</item>
+      </list>
+      <para id="id10803408">However, graphing also has two <emphasis>dis</emphasis>advantages.</para>
+      <list list-type="enumerated" id="id10714315">
+        <item>It is time-consuming.</item>
+        <item>It often yields solutions that are <emphasis>approximate</emphasis>, not exact—because you find the solutions by simply “eyeballing” the graph to see where the two curves meet.</item>
+      </list>
+      <para id="id11532592">For instance, if you plug the number 3 into both of these functions, will you get the same answer?</para>
+      <para id="id10278974">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo stretchy="false">→</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:msqrt>
+                      <m:mi>x</m:mi>
+                    </m:msqrt>
+                    <m:mo stretchy="false">→</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mrow>
+                      <m:msqrt>
+                        <m:mn>3</m:mn>
+                      </m:msqrt>
+                      <m:mo stretchy="false">≈</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>46</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{3 rightarrow 2 sqrt {x}  rightarrow 2 sqrt {3}  approx 3 "." "46"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id7995746">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo stretchy="false">→</m:mo>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfrac>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">→</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{3 rightarrow x+ {  { size 8{1} }  over  { size 8{2} } }  rightarrow 3 "." 5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id10686713">Pretty close! Similarly, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:msqrt><m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow></m:msqrt><m:mo stretchy="false">≈</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>632</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 sqrt { "." 1}  approx 0 "." "632"} {}</m:annotation></m:semantics></m:math>, which is quite close to 0.6. But if we want more exact answers, we will need to draw a much more exact graph, which becomes <emphasis>very</emphasis> time-consuming. (Rounded to three decimal places, the actual answers are 0.086 and 2.914.)</para>
+      <para id="id9627038">For more exact answers, we use analytic methods. Two such methods will be discussed in this chapter: <term>substitution</term> and <term>elimination</term>. A third method will be discussed in the section on Matrices.</para>
+
+  </content>
+</document>

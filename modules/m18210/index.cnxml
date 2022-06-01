@@ -1,0 +1,319 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simultaneous Equations Concepts -- Word Problems</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4bb707e5-1b67-4d91-9f9a-df8d66950aab</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Many students approach math with the attitude that “I can do the equations, but I’m just not a ‘word problems’ person.”  No offense, but that’s like saying “I’m pretty good at handling a tennis racket, as long as there’s no ball involved.”  The only point of handling the tennis racket is to hit the ball.  The only point of math equations is to solve problems.  So if you find yourself in that category, try this sentence instead: “I’ve never been good at word problems.  There must be something about them I don’t understand, so I’ll try to learn it.”</para><para id="element-770">Actually, many of the key problems with word problems were discussed in the very beginning of the “Functions” unit, in the discussion of variable descriptions.  So this might be a good time to quickly re-read that section.  If you can correctly identify the variables, you’re half-way through the hard part of a word problem.  The other half is <emphasis>translating the sentences of the problem into equations</emphasis> that use those variables.</para><para id="element-169">Let’s work through an example, very carefully.</para><example id="element-830"><title>Simultaneous Equation Word Problem</title><para id="element-698">
+A roll of dimes and a roll of quarters lie on the table in front of you.  There are three more quarters than dimes.  But the quarters are worth three times the amount that the dimes are worth.  How many of each do you have?
+</para><list id="element-379" list-type="enumerated"><item>Identify and label the variables.
+<list id="word_prob_1">
+<item>There are actually two different, valid ways to approach this problem.  You could make a variable that represents the number of dimes; or you could have a variable that represents the value of the dimes.  Either way will lead you to the right answer.  However, it is vital to know which one you’re doing!  If you get confused half-way through the problem, you will end up with the wrong answer.</item></list>
+<table frame="none" id="element-163" summary="">
+<tgroup cols="1">
+<thead>
+  <row>
+    <entry>Let’s try it this way:</entry>
+  </row>
+</thead>
+<tbody>
+  <row>
+    <entry><m:math><m:mi>d</m:mi></m:math> is the number of dimes</entry>
+  </row>
+  <row>
+    <entry><m:math><m:mi>q</m:mi></m:math> is the number of quarters</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table>
+</item>
+<item>Translate the sentences in the problem into equations.
+<list id="word_prob_2" list-type="labeled-item"><item>“There are three more quarters than dimes” 
+<m:math>
+  <m:mo>→</m:mo>
+  <m:mi>q</m:mi>
+  <m:mo>=</m:mo>
+  <m:mi>d</m:mi>
+  <m:mo>+</m:mo>
+  <m:mn>3</m:mn>
+</m:math></item>
+<item>“The quarters are worth three times the amount that the dimes are worth”
+
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">→</m:mo>
+                  <m:mtext>25</m:mtext>
+                  <m:mrow>
+                    <m:mi>q</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mtext>10</m:mtext>
+                  <m:mi>d</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ rightarrow "25"q=3 \( "10"d \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item>
+This second equation relies on the fact that if you have 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mi>q</m:mi>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     quarters, they are worth a total of 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>25</m:mtext>
+                  <m:mi>q</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"25"q} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     cents.</item></list></item>
+<item>Solve.
+<list id="word_prob_3" list-type="labeled-item"><item>We can do this by elimination or substitution.  Since the first equation is already solved for 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mi>q</m:mi>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    , I will substitute that into the second equation and then solve.</item></list>
+<table frame="none" id="element-758" summary="">
+<tgroup cols="1"><tbody>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>25</m:mtext>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mi>d</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mfenced>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                  <m:mfenced open="(" close=")">
+                    <m:mrow>
+                      <m:mtext>10</m:mtext>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:mfenced>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"25" left (d+3 right )=3 left ("10"d right )} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>25</m:mtext>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>d</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>75</m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>30</m:mtext>
+                  </m:mrow>
+                  <m:mi>d</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"25"d+"75"="30"d} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>75</m:mtext>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>5d</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"75"=5d} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>d</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>15</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{d="15"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+  <row>
+    <entry>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>q</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext>18</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{q="18"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </entry>
+  </row>
+</tbody>
+</tgroup>
+</table></item></list><para id="element-443">So, did it work?  The surest check is to go all the way back to the original problem—not the equations, but the words.  We have concluded that there are 15 <emphasis>dimes</emphasis> and <emphasis>18</emphasis> quarters.</para><para id="element-496">“There are three more quarters than dimes.” <m:math><m:mo>✓</m:mo></m:math></para><para id="element-135">“The quarters are worth three times the amount that the dimes are worth.” 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mo stretchy="false">→</m:mo>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ rightarrow } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     Well, the quarters are worth 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>18</m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext>25</m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>$</m:mi>
+                  </m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>50</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"18" cdot "25"=$4 "." "50"} {}</m:annotation>
+        </m:semantics>
+      </m:math>.  The dimes are worth 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>15</m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext>10</m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>$</m:mi>
+                  </m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>50</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"15" cdot "10"=$1 "." "50"} {}</m:annotation>
+        </m:semantics>
+      </m:math>.  <m:math><m:mo>✓</m:mo></m:math></para>
+</example>   
+  </content>
+  
+</document>
