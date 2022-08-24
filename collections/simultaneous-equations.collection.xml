@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11287</md:content-id>  <md:title>Simultaneous Equations</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>fff43307-25af-4c04-96fa-163449aac655</md:uuid>
-<md:slug>simultaneous-equations</md:slug>
-</metadata>  <col:content>          <col:module document="m18211"/>                            <col:module document="m18209"/>                            <col:module document="m18212"/>                            <col:module document="m18215"/>                            <col:module document="m18213"/>                            <col:module document="m18210"/>                            <col:module document="m18214"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Scott Starks">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11287</md:content-id>
+    <md:title>Simultaneous Equations</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>fff43307-25af-4c04-96fa-163449aac655</md:uuid>
+    <md:slug>simultaneous-equations</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m18211"/>
+    <col:module document="m18209"/>
+    <col:module document="m18212"/>
+    <col:module document="m18215"/>
+    <col:module document="m18213"/>
+    <col:module document="m18210"/>
+    <col:module document="m18214"/>
+  </col:content>
+</col:collection>
